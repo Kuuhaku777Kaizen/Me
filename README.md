@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋 I'm Kūhaku</h1>
-<h4 align="center"> Developer from The Void</h4>
+<h1 align="center">I'm Kūhaku</h1>
+<h4 align="center">A developer from The Void</h4>
 
 
 </p>
