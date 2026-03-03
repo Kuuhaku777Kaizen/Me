@@ -7,7 +7,7 @@
 </div> </br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&pause=1000&color=E9D6FFFF&center=true&vCenter=true&repeat=truewidth=435&lines=A+Lost+Developer+From+The+Void." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&pause=1000&color=E9D6FFFF&center=true&vCenter=true&repeat=true&width=435&lines=A+Lost+Developer+From+The+Void." alt="Typing SVG" /></a>
   <img src="https://media1.tenor.com/m/Yf1rJMFANWwAAAAC/galaxy-divider-divider.gif" width="1000" height="10">
 </div> </br>
 
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&pause=1000&color=E9D6FF&center=true&vCenter=true&repeat=false&width=435&lines=Languages+and+Tools+%3A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&pause=1000&color=C9B8DBFF&center=true&vCenter=true&repeat=false&width=435&lines=Languages+and+Tools+%3A" alt="Typing SVG" /></a>
 </div>
 
 <p align="center"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img 
