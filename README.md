@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&size=32&pause=1000&color=8E839CFF&center=true&vCenter=true&repeat=false&width=435&lines=I'm+K%C5%ABhaku" alt="Typing SVG" /></a>
-<div align="center">
+</div>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/Yf1rJMFANWwAAAAC/galaxy-divider-divider.gif" width="1000" height="10"> 
@@ -28,7 +28,7 @@ src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" wi
 	  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kuuhaku777Kaizen&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=475&&fire=E64553&hide_longest_streak=true" />
 	  <img alt="Github Streak"    src="https://streak-stats.demolab.com?user=Kuuhaku777Kaizen&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=475&fire=F38BA8&hide_longest_streak=true" />
 	</picture>
-</p>
+</p> </br>
 
 <div align="center">
   <img src="https://i.imgur.com/X2M2D1m.gif">
