@@ -11,8 +11,9 @@
   <img src="https://media1.tenor.com/m/Yf1rJMFANWwAAAAC/galaxy-divider-divider.gif" width="1000" height="10">
 </div> </br> </br>
 
-<img style="max-height: inherit; height:50px; "  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> </br>
-
+<div align="center">
+  <img height="50" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+</div> </br>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&pause=1000&color=C9B8DBFF&center=true&vCenter=true&repeat=false&width=435&lines=Languages+and+Tools+%3A" alt="Typing SVG" /></a>
