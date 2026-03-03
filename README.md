@@ -31,7 +31,7 @@ src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" wi
 </p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ4MHBmZGF3dmhhODZveXo1czFscHFlM2l1YmR3d203bHkxMWwwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbox1ygIqnga5dLinz/giphy.gif">
+  <img src="https://i.imgur.com/X2M2D1m.gif">
 </div>
 
 <div align="center">
