@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&size=64&pause=1000&color=8E839CFF&center=true&vCenter=true&repeat=false&width=435&lines=I'm+K%C5%ABhaku" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&size=64&pause=1000&color=8E839CFF&center=true&vCenter=true&repeat=false&width=435&lines=K%C5%ABhaku" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div> </br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&size=24&pause=1000&color=E9D6FFFF&center=true&vCenter=true&repeat=true&width=435&lines=A+Lost+Developer+From+The+Void." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&size=24&duration=1000&pause=3000&color=E9D6FFFF&center=true&vCenter=true&repeat=true&width=435&lines=A+Lost+Developer+From+The+Void." alt="Typing SVG" /></a>
   <img src="https://media1.tenor.com/m/Yf1rJMFANWwAAAAC/galaxy-divider-divider.gif" width="1000" height="10">
 </div> </br> </br>
 
