@@ -36,10 +36,6 @@ src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" wi
 </p> </br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Megrim&size=20&pause=1000&color=C9B8DBFF&center=true&vCenter=true&repeat=false&width=435&lines=Click+Me+%21" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
   <a href="https://r.mtdv.me/watch?v=crazy-animation">
     <img src="https://s7.ezgif.com/tmp/ezgif-7965ce03d3edb4bf.gif" width="20%">
   </a>
