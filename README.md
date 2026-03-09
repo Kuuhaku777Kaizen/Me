@@ -37,7 +37,7 @@ src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" wi
 
 <div align="center">
   <a href="https://r.mtdv.me/watch?v=crazy-animation">
-    <img src="https://s7.ezgif.com/tmp/ezgif-7965ce03d3edb4bf.gif" width="20%">
+    <img src="https://raw.githubusercontent.com/Kuuhaku777Kaizen/Kuuhaku777Kaizen/main/assets/purpleRing.gif" width="20%">
   </a>
 </div> </br> </br>
 
